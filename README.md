@@ -1,4 +1,4 @@
-gurpinder-report
+Training Report
 ================
 
-This contains the 6 week training report of Gurpinder Singh D3 CSE.
+This contains the 6 week training report (raw uncompiled).
